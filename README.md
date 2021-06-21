@@ -5,8 +5,8 @@ by industry business reports and statistical data. For example, “The Federal R
 New York measures credit card delinquencies based on the percent of balances that are at least
 90 days late. For the third quarter of 2019, that rate was about 8%, about the same level as in
 the previous quarter.” Thus, assessing, detecting and managing default risk is the key factor in
-
 generating revenue and reducing loss for the banking and credit card industry.
+
 Despite machine learning and big data have been adopted by the banking industry, the current
 applications are mainly focused on credit score predicting. The disadvantage of heavily relying
 on credit score is banks would miss valuable customers who come from countries that are
